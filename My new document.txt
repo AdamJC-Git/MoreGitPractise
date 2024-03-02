@@ -3,3 +3,11 @@ Hello World!!!
 So this will be the code that I write for the Developer1 branch!!!
 
 This will be our 3rd branch - called feature/newline
+
+-------------------------------------------------
+This is me working on the original master that I cloned from Github.
+Once cloned on my local machine I created a new branch and then did a 
+checkout onto my new branch. So will save this and add and commit. 
+Then go back to master branch and merge the changes into that.
+Then push my changes up to GitHub again.
+----------------------------------------------------------
